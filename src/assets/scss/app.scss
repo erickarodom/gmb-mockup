@@ -44,9 +44,13 @@ body {
 }
 
 // Hero Section
-.hero-images,
-.look-images,
-.catalog-content {
+.images {
     max-width: 100%;
     height: auto;
+}
+
+.pi-border {
+    border: solid 3px black;
+    border-radius: 50%;
+    padding: 10px;
 }
