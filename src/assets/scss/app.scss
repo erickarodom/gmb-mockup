@@ -8,45 +8,45 @@ body {
     font-size: 1em;
 }
 
-// .page-container {
-//     display: flex;
-//     flex-direction: column;
-// }
-// // Promotional Banner
-// .promo-banner {
-//     background-color: black;
-//     color: #fff;
-//     width: 100%;
-//     margin: 0;
-//     text-align: center;
+.page-container {
+    display: flex;
+    flex-direction: column;
+}
+// Promotional Banner
+.promo-banner {
+    background-color: black;
+    color: #fff;
+    width: 100%;
+    margin: 0;
+    text-align: center;
 
-//     p {
-//         padding: 10px;
-//         margin: 0;
-//         font-size: 0.65em;
-//         letter-spacing: 0.1em;
-//     }
-// }
-// // Navigation
-// .hamburger,
-// .logo-bar,
-// .shopping-cart {
-//     border: solid 1px grey;
-//     display: inline-block;
-//     text-align: center;
-// }
+    p {
+        padding: 10px;
+        margin: 0;
+        font-size: 0.65em;
+        letter-spacing: 0.1em;
+    }
+}
+// Navigation
+.hamburger,
+.logo-bar,
+.shopping-cart {
+    border: solid 1px grey;
+    display: inline-block;
+    text-align: center;
+}
 
-// .hamburger a i,
-// .logo-bar a,
-// .shopping-cart a i {
-//     text-decoration: none;
-//     color: black;
-// }
+.hamburger a i,
+.logo-bar a,
+.shopping-cart a i {
+    text-decoration: none;
+    color: black;
+}
 
-// // // Hero Section
-// // .hero-images,
-// // .look-images,
-// // .catalog-content {
-// //     max-width: 100%;
-// //     height: auto;
-// // }
+// Hero Section
+.hero-images,
+.look-images,
+.catalog-content {
+    max-width: 100%;
+    height: auto;
+}
